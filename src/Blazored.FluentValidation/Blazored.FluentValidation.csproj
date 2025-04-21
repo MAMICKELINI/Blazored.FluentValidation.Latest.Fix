@@ -9,7 +9,7 @@
 		<Company></Company>
 		<Copyright>Copyright 2020 (c) Chris Sainty. All rights reserved.</Copyright>
 
-		<Description>library for using FluentValidation with Blazor</Description>
+		<Description>library for using FluentValidation with Blazor with the latest commits</Description>
 		<IncludeSymbols>true</IncludeSymbols>
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
 
@@ -17,7 +17,7 @@
 		<PackageId>Blazored.FluentValidation.Latest.Fix</PackageId>
 		<PackageTags>Blazor;FluentValidation;Fluent Validation;Blazored;Components;ASP.NET Core;CSharp;Web</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<PackageProjectUrl>https://github.com/MAMICKELINI/FluentValidation.Fix</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/MAMICKELINI/Blazored.FluentValidation.Latest.Fix</PackageProjectUrl>
 		<PackageIcon>icon.png</PackageIcon>
 		<RepositoryType>git</RepositoryType>
 		<RepositoryUrl>https://github.com/MAMICKELINI/FluentValidation.Fix</RepositoryUrl>
@@ -25,6 +25,9 @@
 		<!-- SourceLink settings -->
 		<PublishRepositoryUrl>true</PublishRepositoryUrl>
 		<EmbedUntrackedSources>true</EmbedUntrackedSources>
+		<Title>Blazored Fluent Validation Latest Fix</Title>
+		<PackageReleaseNotes>Releasing the latest merged PRs in the Blazored.FluentValidation source repository.</PackageReleaseNotes>
+		<AssemblyVersion></AssemblyVersion>
 	</PropertyGroup>
 
 	<ItemGroup>
