@@ -9,18 +9,18 @@
 		<Company></Company>
 		<Copyright>Copyright 2020 (c) Chris Sainty. All rights reserved.</Copyright>
 
-		<Description>A library for using FluentValidation with Blazor</Description>
+		<Description>library for using FluentValidation with Blazor</Description>
 		<IncludeSymbols>true</IncludeSymbols>
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
 
 		<!-- NuGet settings -->
-		<PackageId>Blazored.FluentValidation</PackageId>
+		<PackageId>Blazored.FluentValidation.Latest.Fix</PackageId>
 		<PackageTags>Blazor;FluentValidation;Fluent Validation;Blazored;Components;ASP.NET Core;CSharp;Web</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<PackageProjectUrl>https://github.com/Blazored/FluentValidation</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/MAMICKELINI/FluentValidation.Fix</PackageProjectUrl>
 		<PackageIcon>icon.png</PackageIcon>
 		<RepositoryType>git</RepositoryType>
-		<RepositoryUrl>https://github.com/Blazored/FluentValidation</RepositoryUrl>
+		<RepositoryUrl>https://github.com/MAMICKELINI/FluentValidation.Fix</RepositoryUrl>
 
 		<!-- SourceLink settings -->
 		<PublishRepositoryUrl>true</PublishRepositoryUrl>
